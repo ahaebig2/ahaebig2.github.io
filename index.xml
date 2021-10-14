@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autumn Haebig&#39;s GitHub Site</title>
+    <link>http://ahaebig2.github.io/</link>
+    <description>Recent content on Autumn Haebig&#39;s GitHub Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://ahaebig2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://ahaebig2.github.io/about/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://ahaebig2.github.io/about/</guid>
+      <description>Hi, my name is Autumn Haebig. I am a fifth year senior at the University of Nebraska-Lincoln currently double majoring in advertising and public relations and sports media and communication. I am a social media intern at SwimmingWorld Magazine, where I help run the Instagram, Twitter and LinkedIn. I&amp;rsquo;m also finishing off her swimming career for UNL and I&amp;rsquo;m serving as a two-time captain.</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>http://ahaebig2.github.io/2021/10/12/my-first-blog/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://ahaebig2.github.io/2021/10/12/my-first-blog/</guid>
+      <description>library(tidyverse) #message=false hides code chunks</description>
+    </item>
+    
+  </channel>
+</rss>
